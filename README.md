@@ -22,7 +22,7 @@ If you already have the MATLAB Mobile app, log out. To log out,
 4. Click the “Add to my Files” button next to the plus sign and then select “Copy Folder”.
 
 ### Part III. Download and connect to MATLAB Mobile
-Download and connect to MATLAB Mobile usingyour mobile device.
+Download and connect to MATLAB Mobile using your mobile device.
 1. On your device, visit https://www.mathworks.com/products/matlab-mobile.html
 2. Click the **Google Play** or **App Store** link and install the app.
 3. Open the app and click **Connect to MathWorks Cloud**.
