@@ -2,7 +2,7 @@
 *In this hands-on and interactive workshop, you will learn how to use sensors, AI, and IoT to build a smart fitness tracker using your own mobile device. Learn the basics of sensors, AI, machine learning, and IoT required for building this application. We will demystify the buzz around sensor analytics, machine learning, and IoT and show you how easy it is to build smart wearables. You will be energized and engaged while doing hands-on exercises and leave excited about IoT and wearables and taking up challenging projects in this domain. Discover how MATLAB Online™, MATLAB Drive™, ThingSpeak™, and machine learning algorithms (knn) are seamlessly integrated and used within MATLAB Mobile™. To participate in this workshop, you will need a MathWorks account (create MathWorks account).*
 
 ## Hardware and Software Requirements
-To participate in this workshop, you need a **charged phone or tablet**. Requires Android 8.0 or greater, or iOS 13 or later.
+To participate in this workshop, you need a **charged phone or tablet** with Android 8.0 or greater, or iOS 13 or later.
 
 ## Setup for the Pocket AI and IoT Workshop
 If you already have the MATLAB Mobile app, log out. To log out, 
